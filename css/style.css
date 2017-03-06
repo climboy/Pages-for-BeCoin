@@ -1,0 +1,41 @@
+
+body {
+
+  background-color: #F7F7F7;
+
+}
+
+section {
+
+  margin:50px 0px 50px 0px;
+
+}
+
+.pad-top-botm {
+
+  padding-top:20px;
+
+  padding-bottom:50px;
+
+}
+
+.pad-row {
+
+  padding-top:20px;
+
+}
+
+.vedio-style {
+
+   border: 0px;
+
+   width: 400px;
+
+   max-height: 350px
+ }
+
+
+.container
+{
+
+}
